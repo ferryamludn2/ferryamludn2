@@ -9,7 +9,7 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="www.linkedin.com/in/ferry-amaludin-31a964259" target="_blank">
+  <a href="https://www.linkedin.com/in/ferry-amaludin-31a964259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin" />
   </a>
   <a href="mailto:ferryamludn.work@gmail.com">

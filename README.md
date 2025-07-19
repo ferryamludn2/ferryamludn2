@@ -42,7 +42,7 @@
 | Name | Description |
 |------|-------------|
 | [🤑 CashFlox](https://play.google.com/store/apps/details?id=com.ferryamludn.walfare) | Control your monay with CashFlox. Integrated with AI, Custome your categories. |
-| [🤑 Graybird](https://play.google.com/store/apps/details?id=com.ferryamludn.graybird) | Connect with your friend with social media App by Ferry Amaludin |
+| [🌐 Graybird](https://play.google.com/store/apps/details?id=com.ferryamludn.graybird) | Connect with your friend with social media App by Ferry Amaludin |
 | [📦 Daganganku](https://github.com/ferryamludn2/daganganku) | A full-featured POS & inventory app built with Flutter & Postgresql |
 | [🌐 Nest API Starter](https://github.com/ferryamludn2/backend-stokbarang.git) | Scalable NestJS backend boilerplate with PostgreSQL & Swagger. |
 | [🧠 TensorFlow Experiments](https://doi.org/10.61124/sinta.v2i2.43) | AI and ML projects using TensorFlow & Python. Have a jurnal publish "PENGARUH HYPERPARAMETER TUNING PADA KINERJA MOBILENETV2 DENGAN TRANSFER LEARNING UNTUK DETEKSI PENYAKIT KULIT" |
@@ -58,16 +58,8 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-> Ular keliling commit kamu 🐍
-
-```md
-<!-- Ganti URL ini jika kamu menggunakan cabang/output berbeda -->
 ![snake gif](https://github.com/ferryamludn2/ferryamludn2/blob/output/github-contribution-grid-snake.svg)
-
-<!-- ## Hi there 👋 -->
-
+    
 <!--
 **ferryamludn2/ferryamludn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

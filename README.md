@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | Flutter • NestJS • TensorFlow</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=500&lines=I+build+Flutter+apps.;I+create+powerful+NestJS+backends.;I+love+AI+with+TensorFlow!;Welcome+to+my+profile!+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=500&lines=I+build+Flutter+apps.;I+have+published+the+app+on+playstore;I+create+powerful+NestJS+backends.;I+love+AI+with+TensorFlow!;Welcome+to+my+profile!+👋" />
 </p>
 
 ---

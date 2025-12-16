@@ -12,19 +12,15 @@
 
 ---
 
-### 📊 Weekly Activity & Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferryamludn2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferryamludn2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-### 🏆 Achievements
+### 📊 Weekly Activity & Skills
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ferryamludn2&theme=onestar&no-frame=true&margin-w=15" alt="ferryamludn2" />
-</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferryamludn2&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ferryamludn2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferryamludn2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
 </div>
 
 ---

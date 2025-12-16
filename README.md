@@ -43,7 +43,7 @@
 |------|-------------|
 | [🤑 CashFlox](https://play.google.com/store/apps/details?id=com.ferryamludn.walfare) | Control your monay with CashFlox. Integrated with AI, Custome your categories. |
 | [🌐 Graybird](https://play.google.com/store/apps/details?id=com.ferryamludn.graybird) | Connect with your friend with social media App by Ferry Amaludin |
-| [📦 Daganganku](https://github.com/ferryamludn2/daganganku) | A full-featured POS & inventory app built with Flutter & Postgresql |
+| [📦 Daganganku](https://graybirdin.com) | A full-featured POS & inventory app built with Flutter & Postgresql |
 | [🌐 Nest API Starter](https://github.com/ferryamludn2/backend-stokbarang.git) | Scalable NestJS backend boilerplate with PostgreSQL & Swagger. |
 | [🧠 TensorFlow Experiments](https://doi.org/10.61124/sinta.v2i2.43) | AI and ML projects using TensorFlow & Python. Have a jurnal publish "PENGARUH HYPERPARAMETER TUNING PADA KINERJA MOBILENETV2 DENGAN TRANSFER LEARNING UNTUK DETEKSI PENYAKIT KULIT" |
 

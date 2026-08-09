@@ -41,15 +41,7 @@
   </picture>
 </div>
 
-<br>
-
-<!-- ═════════════════ 3D CONTRIBUTION CALENDAR ═════════════════ -->
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> 3D Contribution Calendar
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" width="100%" />
-</div>
+> ⚠️ *Snake animation akan muncul setelah GitHub Action "Generate Snake" dijalankan pertama kali. Buka tab **Actions** → Run workflow secara manual.*
 
 <br>
 
@@ -58,14 +50,14 @@
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferryamludn2&show_icons=true&hide_border=true&count_private=true&title_color=39D353&text_color=C9D1D9&icon_color=39D353&bg_color=0D1117&ring_color=39D353" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferryamludn2&hide_border=true&background=0D1117&ring=39D353&fire=FF6723&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ferryamludn2&show_icons=true&hide_border=true&count_private=true&title_color=39D353&text_color=C9D1D9&icon_color=39D353&bg_color=0D1117&ring_color=39D353&cache_seconds=86400" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=ferryamludn2&hide_border=true&background=0D1117&ring=39D353&fire=FF6723&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" height="180" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferryamludn2&layout=donut-vertical&hide_border=true&title_color=39D353&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="Top Languages" height="240" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferryamludn2&layout=donut-vertical&hide_border=true&title_color=39D353&text_color=C9D1D9&bg_color=0D1117&langs_count=8&cache_seconds=86400" alt="Top Languages" height="240" />
 </div>
 
 <br>
@@ -80,7 +72,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferryamludn2&layout=compact&hide_border=true&title_color=39D353&text_color=C9D1D9&bg_color=0D1117&langs_count=6" width="340" />
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferryamludn2&layout=compact&hide_border=true&title_color=39D353&text_color=C9D1D9&bg_color=0D1117&langs_count=6&cache_seconds=86400" width="340" />
 
 ```yaml
 name: Ferry Amaludin
